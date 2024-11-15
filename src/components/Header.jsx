@@ -2,7 +2,7 @@ import React from 'react';
 import{ useState, useEffect } from 'react';
 function Github() {
     return (
-        <i className="ri-github-fill" onClick={() => window.location.href = 'https://github.com/your-repo'} style={{ cursor: 'pointer' }}></i>
+        <i className="ri-github-fill" onClick={() => window.location.href = 'https://github.com/Priyansh7999/TASK-MANAGER-FLARELINK'} style={{ cursor: 'pointer' }}></i>
     );
 }
 

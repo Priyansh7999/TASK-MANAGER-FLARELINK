@@ -54,7 +54,7 @@ The **Task Manager** is a web-based application built using **React** and **Java
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Priyansh7999/TASK-MANAGER-FLARELINK.git)
    cd Task-manager
    ```
 2. **Install dependencies**:
